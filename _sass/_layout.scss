@@ -70,6 +70,7 @@ display: line;
     }
 }
 
+
 /**
  * Site footer  **********************************************************
  */
@@ -279,3 +280,57 @@ text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
 }
+
+
+/** Form  ******************************************************************
+**/
+
+form{
+    width: 100%;
+    padding: 5px;
+}
+
+label{
+    color: $theme-color;
+    font-size: 18px;
+    padding: 5px;
+    float: left;
+    clear: right;
+    display: block;
+    width: 100%;
+}
+
+input{
+    padding: 0px 10px;
+    font: $base-font-family;
+    font-size: 14px;
+    height: 40px;
+    width: 100%;
+    clear: right;
+    margin: 0px 0px 25px 0px;
+    background-color: #eee;
+    border-bottom: 1px solid $theme-color;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+input:focus{
+    background-color: #fff;
+}
+
+
+.contactSubmit{
+    width: 150px;
+    border-radius: 50px;
+    height: 50px;
+    border: none;
+    background: $theme-color;
+    color: white;
+    font-size: 14px;
+}
+
+
+
+
+

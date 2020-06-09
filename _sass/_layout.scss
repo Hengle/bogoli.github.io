@@ -250,7 +250,7 @@ height: $img_height;
 width: 100%;
 overflow: hidden;
 box-sizing:border-box;
-padding: $img_spacing;
+padding: $img_padding;
 }
 .col{ 
 width: 100%;
@@ -258,7 +258,7 @@ height: 100%;
 float: left;
 object-fit: cover;
 box-sizing:border-box;
-padding: $img_spacing;
+margin: $img_margin;
 }
 .right{
 float: right;

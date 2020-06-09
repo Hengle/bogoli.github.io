@@ -4,36 +4,31 @@ title: about
 permalink: /about/
 ---
 
+Hi, I’m Lia. I’m a product manager that thrives working on the tough problems—I love to research and analyze, and truly immerse myself in the data. I also understand there’s a human element that metrics can’t capture, and I make sure the user stays at the heart of the work.
+
+I’m currently working as a product owner at a healthcare tech company in the Boston area. My team creates tools for our software developers, enabling a more streamlined and efficient experience. Before, I worked as a product owner on in-app training on mobile and desktop, strategizing how the Product Education team could contribute to feature adoption metrics across all products.
+
+<img class="one col right" src="/img/profile.jpg">
+Outside of work, I like to create—almost anything. I spend a lot of time journaling, learning new skills, trying new things. I’ve documented some of the things that I’ve spent my time on and that I’m proud of here.
+
+In addition to being a tech-obsessed gadget geek, I love to cycle, both indoor spin and outdoor endurance rides. I love the great outdoors, especially the mountains—I’m a big fan of the snow. I love dogs, and I take my small pup adventuring with me as much as I can.
+
+
+
+
+
 
 
 <span class="contacticon center">
-	<a href="mailto:lbogoev@mit.edu"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com/bogoli" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com/pub/lia-bogoev/36/806/5a4" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://blog.liabogoev.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com/elbowgo" target="_blank"><i class="fa fa-twitter-square"></i></a>
+<!-- removing this in favor of a full contact form with formspree 
+	<a href="mailto:lia.bogoev@gmail.com"><i class="fa fa-envelope"></i></a>
+-->
+	<a href="https://www.linkedin.com/in/liabogoev/" target="_blank"><i class="fab fa-linkedin"></i></a>
+	<a href="https://github.com/bogoli" target="_blank"><i class="fab fa-github"></i></a>
+	<a href="https://www.goodreads.com/user/show/34125606-lia" target="_blank"><i class="fab fa-goodreads"></i></a>
+	<a href="https://www.instagram.com/liabogoev/" target="_blank"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.ravelry.com/people/bogoli" target="_blank"><i class="fab fa-ravelry"></i></a>
+<!-- removing because I don't really use twitter
+	<a href="https://twitter.com/elbowgo" target="_blank"><i class="fab fa-twitter"></i></a>
+-->
 </span>
-
-<div class="col three caption">
-	I am best reachable by email: lbogoev (at) mit (dot) edu
-</div>
-
-
-<br/>
-<hr/>
-<br/>
-
-
-<p>My name is Lia Bogoev, and I'm from northern Utah. I will be graduating from <a href="http://web.mit.edu" target="_blank">MIT</a> in January 2017 with a Bachelor of Science in <a href="https://architecture.mit.edu" target="_blank">Architecture Studies</a> with a focus in <a href="http://cmsw.mit.edu" target="_blank">Comparative Media Studies</a> and a minor in Creative Writing. </p>
-
-<p>I'm interested in the boundary between the product and the user, whether the "product" is a website, an app, a physical product, or a service.</p>
-
-<p>HTML & CSS are my favorite tools. Scalability and responsiveness are paramount. I like Sublime Text 2 and I use the <a href="http://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS" target="_blank">One True Brace Style</a>. </p>
-
-<p>	I like <a href="http://stronglifts.com" target="_blank">weightlifting</a> and riding my fixed gear bike. I bake *really* good lemon bars. I write poetry. My favorite subreddit is <a href="http://www.reddit.com/r/showerthoughts" target="_blank">/r/showerthoughts</a> I love the snow, and I can't wait to get a dog. </p>
-
-<div class="img_row">
-	<img class="col one" src="/img/prof_pic.jpg">
-	<img class="col two" src="/img/dome.jpg">
-</div>
-

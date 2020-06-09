@@ -18,7 +18,8 @@ $vertical-spacing-unit:         40px;
 $nav-height:                    56px;
 
 /* portfolio tinkering */
-$img_spacing: 5px; 
+$img_padding: 5px; 
+$img_margin:10px;
 $img_height: 275px;
 $caption_font_size: 12px;
 $caption_color: #aaa;
@@ -28,8 +29,13 @@ $red:  #FF3636;
 $orange: #F29105;
 $blue: #2698BA;
 $green: #11D68B;
+$leaf: #7EBB37;
+$tealish: #37BB74;
 $lime_green: #B7D12A;
 $purple: #B509AC;
+$purple2: #9C4AFA;
+$magestic: #b336b8;
+
 
 
 $grey-color-dark: #333;   /* footer */
@@ -37,7 +43,7 @@ $grey-color-light: #ddd;  /* navigation bar border */
 $text-color:     #666;
 
 /* Set theme color *************************/
-$theme-color:   $red;
+$theme-color:   $magestic;
 
 
 /************************************************************/

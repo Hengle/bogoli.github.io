@@ -1,16 +1,38 @@
 ---
 layout: post
-permalink: /resume/
-title: resume
+permalink: /cv/
+title: cv
 description: html and PDF copies of my resume
 ---
-
+<!--
 <a href="/docs/lbogoev.pdf" target="_blank">[download pdf]</a>
+-->
+
+#### Technical Product Manager, Development Tools at <a href="http://www.athenahealth.com" target="_blank">athenahealth</a>
+Jan&#39;19 — present
+
+
+<hr/> <br/>
+
+#### Senior Associate, Product Education at <a href="http://www.athenahealth.com" target="_blank">athenahealth</a>
+Jan&#39;18 — Jan&#39;19
+
+
+<hr/> <br/>
+
+
+#### Associate, Product Education at <a href="http://www.athenahealth.com" target="_blank">athenahealth</a>
+Jan&#39;17 — Jan&#39;18
+
+
+
+<hr/> <br/>
+
 
 #### Instructional Design Intern at <a href="http://www.athenahealth.com" target="_blank">athenahealth</a>
-June&#39;16 — present
+June&#39;16 — Dec&#39;16
 
-I work as an Instructional Design Intern, creating materials that teaches clients how to use the athenaOne suite. I create demo videos, detailing workflows and features, as well as technical resources including tip sheets and elearning courses. 
+I worked as an Instructional Design Intern, creating materials that teaches clients how to use the athenaOne suite. I create demo videos, detailing workflows and features, as well as technical resources including tip sheets and elearning courses. 
 
 <hr/> <br/>
 

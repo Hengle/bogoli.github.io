@@ -12,8 +12,8 @@ dl, dd, ol, ul, figure {
 /** Variables **********************************************/
 $base-font-family:              Helvetica, sans-serif;
 $base-line-height:              1.5em;
-$horizontal-spacing-unit:       50px;
-$vertical-spacing-unit:         40px;
+$horizontal-spacing-unit:       20px;
+$vertical-spacing-unit:         20px;
 $nav-height:                    56px;
 
 /* portfolio tinkering */
@@ -201,10 +201,14 @@ pre {
 .wrapper {
     max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
     max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
+    
+    /*
     margin-right: auto;
     margin-left: auto;
     padding-right: $horizontal-spacing-unit;
     padding-left: $horizontal-spacing-unit;
+    */
+    padding: 20px 20px 20px 200px;
     @extend %clearfix;
 
     @include media-query($on-laptop) {

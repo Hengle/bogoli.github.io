@@ -3,14 +3,14 @@
  * Site header   **********************************************************
  */
 .site-header {
-border-bottom: 1px solid $grey-color-light;
+border-right: 1px solid $grey-color-light;
 background-color: #fff;
 opacity: 0.75;
 position:fixed;
 left:0px;
 top:0px;
-height:56px;
-width:100%;
+height:100%;
+width:100px;
 z-index: 50;
 }
 
@@ -25,30 +25,57 @@ color: $theme-color;
     }
 }
 .site-nav {
-float: right;
-line-height: $nav-height;
-.page-link{
-line-height: $base-line-height;
+    width:100%;
+    float: left;
+    clear:right;
+    line-height: $nav-height;
+    
+    .page-link{
+        position: relative;
+        line-height: $base-line-height;
+        display: block;
+        width:80px;
+        height:38px;
+        // margin:10px 10px 0px 0px;
+        text-align: right;
+        padding: 15px 15px 5px 5px;
+
+        clear: both;
+
         // Gaps between nav items, but not on the first one
-&:not(:first-child) {
-margin-left: 10px;
+        // &:not(:first-child) {
+        // margin-left: 10px;
+        //}
+
+        &:hover{
+            opacity: 1;
+            background-color: white;
         }
     }
-@include media-query($on-palm) {
-position: fixed;
-top: 0px;
-right: 10px;
-text-align: right;
-&:hover .trigger {
-display: block;
-padding-bottom: 5px;
+
+    @include media-query($on-palm) {
+    position: fixed;
+    top: 0px;
+    right: 10px;
+    text-align: right;
+    
+        &:hover .trigger {
+        display: block;
+        padding-bottom: 5px;
         }
-.page-link {
-display: line;
+    
+        .page-link {
+           
         }
     }
 }
 
+#logo{
+    position: absolute;
+    bottom: 50px;
+    left: 25px;
+    width: 50px;
+}
 .header-bar{
     left: 0px;
     top: 0px;
@@ -57,8 +84,7 @@ display: line;
     display: block;
     opacity: 0.75;
     width: 100%;
-    text-align: center;
-    padding-top: 25px;
+    text-align: left;
     line-height: 3em;
     z-index: 25;
     h1{
@@ -66,7 +92,7 @@ display: line;
         font-size:75px;
     }
     h2{
-        font-size:25px;
+        font-size:20px;
     }
 }
 
@@ -106,7 +132,7 @@ color: $theme-color;
  * Page content   **********************************************************
  */
 .page-content {
-padding: 100px 0; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
+padding: 30px 0px 0px 120px; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */
 }
 .page-heading {
 font-size: 20px;

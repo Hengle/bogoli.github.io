@@ -1,8 +1,9 @@
 ---
 layout: page
-title: contact
+title: hello
 permalink: /contact/
 ---
+<p>This form goes straight to my inbox, and you should hear back from me in a business day or two.</p>
 
 
 <form action="https://formspree.io/xwkrbeor" method="POST">
